@@ -1,0 +1,7 @@
+.Bar {
+	width: 24px;
+	border-radius: 12px 12px 0 0;
+	border: 1px solid #ddd;
+	margin: 0 5px;
+	transition: 0.2s linear;
+}
